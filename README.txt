@@ -1,1 +1,1 @@
-Gra Furry Game stworzona na zajęcia z programowania Frontend
+Prosta gra Furry Game stworzona w Vanilla JS
